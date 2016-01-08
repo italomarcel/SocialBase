@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Teste</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty">Lista vazia</string>
+    <string name="fail_empty">Falha ao obter dados do servidor e a tabela esta vazia</string>
+    <string name="fail_connect">Falha ao conectar com servidor</string>
+</resources>
